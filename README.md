@@ -1,6 +1,6 @@
 # 📊 Mortgage Rate Analysis Dashboard (Power BI)
 
-![Mortgage Analysis Dashboard](./Mortagage_Analysis_Dashboard.png)
+![Mortgage Analysis Dashboard](image/Mortagage_Analysis_Dashboard.png)
 
 ## 📌 Project Overview
 
